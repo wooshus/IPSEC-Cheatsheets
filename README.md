@@ -114,6 +114,12 @@
 | **Linux PrivEsc** | Linux privilege escalation techniques | [📄 View](./Linux-PrivEsc/README.md) |
 | **Windows PrivEsc** | Windows privilege escalation techniques | [📄 View](./Windows-PrivEsc/README.md) |
 
+### 🔬 Digital Forensics
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Volatility** | Memory forensics framework | [📄 View](./Volatility/README.md) |
+
 ### 📚 Resources
 
 | Resource | Description | Cheatsheet |
