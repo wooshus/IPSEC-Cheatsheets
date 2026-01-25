@@ -87,6 +87,15 @@
 | **Wireshark** | Network protocol analyzer | [📄 View](./Wireshark/README.md) |
 | **tcpdump** | Command-line packet analyzer | [📄 View](./tcpdump/README.md) |
 
+### 🐛 Bug Bounty
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Nuclei** | Template-based vulnerability scanner | [📄 View](./Nuclei/README.md) |
+| ffuf | Fast web fuzzer | 🔜 Coming Next |
+| Subfinder | Subdomain discovery | 🔜 Planned |
+| httpx | HTTP probe & toolkit | 🔜 Planned |
+
 ### 🔝 Privilege Escalation
 *Coming Soon...*
 
@@ -174,6 +183,9 @@ Hacking-Cheatsheets/
 │
 ├── tcpdump/               # Command-Line Packet Analyzer
 │   └── README.md          # Complete tcpdump guide
+│
+├── Nuclei/                # Bug Bounty Scanner
+│   └── README.md          # Complete Nuclei guide
 │
 └── ...
 ```
