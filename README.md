@@ -120,6 +120,7 @@
 |------|-------------|------------|
 | **Volatility** | Memory forensics framework | [📄 View](./Volatility/README.md) |
 | **Autopsy** | Digital forensics platform (GUI) | [📄 View](./Autopsy/README.md) |
+| **ExifTool** | Metadata extraction & analysis | [📄 View](./ExifTool/README.md) |
 
 ### 📚 Resources
 
