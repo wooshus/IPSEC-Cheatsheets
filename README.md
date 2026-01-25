@@ -137,6 +137,7 @@
 |------|-------------|------------|
 | **Aircrack-ng** | WiFi hacking suite (WPA/WPA2) | [📄 View](./Aircrack-ng/README.md) |
 | **Wifite** | Automated WiFi auditor | [📄 View](./Wifite/README.md) |
+| **Bettercap** | Network attack framework (MITM/WiFi) | [📄 View](./Bettercap/README.md) |
 
 ### 📚 Resources
 
