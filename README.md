@@ -73,11 +73,10 @@
 | **OWASP ZAP** | Free web app security scanner | [📄 View](./OWASP-ZAP/README.md) |
 
 ### 🔓 Password Cracking
-*Coming Soon...*
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| Hydra | Network login cracker | 🔜 Planned |
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Hydra** | Fast network login cracker | [📄 View](./Hydra/README.md) |
 | John the Ripper | Password cracker | 🔜 Planned |
 | Hashcat | Advanced password recovery | 🔜 Planned |
 
@@ -161,6 +160,9 @@ Hacking-Cheatsheets/
 │
 ├── OWASP-ZAP/             # OWASP Zed Attack Proxy
 │   └── README.md          # Complete ZAP guide
+│
+├── Hydra/                 # Network Login Cracker
+│   └── README.md          # Complete Hydra guide
 │
 └── ...
 ```
