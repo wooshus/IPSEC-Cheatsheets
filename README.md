@@ -92,8 +92,8 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Nuclei** | Template-based vulnerability scanner | [📄 View](./Nuclei/README.md) |
-| ffuf | Fast web fuzzer | 🔜 Coming Next |
-| Subfinder | Subdomain discovery | 🔜 Planned |
+| **ffuf** | Fast web fuzzer | [📄 View](./ffuf/README.md) |
+| Subfinder | Subdomain discovery | 🔜 Coming Next |
 | httpx | HTTP probe & toolkit | 🔜 Planned |
 
 ### 🔝 Privilege Escalation
@@ -186,6 +186,9 @@ Hacking-Cheatsheets/
 │
 ├── Nuclei/                # Bug Bounty Scanner
 │   └── README.md          # Complete Nuclei guide
+│
+├── ffuf/                  # Web Fuzzer
+│   └── README.md          # Complete ffuf guide
 │
 └── ...
 ```
