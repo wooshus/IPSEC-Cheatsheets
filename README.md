@@ -105,12 +105,11 @@
 | **GitHub Dorking** | Secret hunting in repositories | [📄 View](./GitHub-Dorking/README.md) |
 
 ### 🔝 Privilege Escalation
-*Coming Soon...*
 
-| Topic | Description | Status |
-|-------|-------------|--------|
-| Linux PrivEsc | Linux privilege escalation techniques | 🔜 Planned |
-| Windows PrivEsc | Windows privilege escalation techniques | 🔜 Planned |
+| Topic | Description | Cheatsheet |
+|-------|-------------|------------|
+| **Linux PrivEsc** | Linux privilege escalation techniques | [📄 View](./Linux-PrivEsc/README.md) |
+| **Windows PrivEsc** | Windows privilege escalation techniques | [📄 View](./Windows-PrivEsc/README.md) |
 
 ---
 
