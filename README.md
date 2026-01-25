@@ -111,6 +111,12 @@
 | **Linux PrivEsc** | Linux privilege escalation techniques | [📄 View](./Linux-PrivEsc/README.md) |
 | **Windows PrivEsc** | Windows privilege escalation techniques | [📄 View](./Windows-PrivEsc/README.md) |
 
+### 📚 Resources
+
+| Resource | Description | Cheatsheet |
+|----------|-------------|------------|
+| **Wordlists** | Complete wordlist reference guide | [📄 View](./Wordlists/README.md) |
+
 ---
 
 ## 🚀 Quick Start
