@@ -61,7 +61,7 @@
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
 | **Nmap** | Network discovery and security auditing | [📄 View](./Nmap/README.md) |
-| Gobuster | Directory/DNS/VHost brute-forcing | 🔜 Planned |
+| **Gobuster** | Directory/DNS/VHost brute-forcing | [📄 View](./Gobuster/README.md) |
 | Nikto | Web server scanner | 🔜 Planned |
 
 ### 🌐 Web Application Testing
@@ -146,6 +146,9 @@ Hacking-Cheatsheets/
 │
 ├── Nmap/                  # Network Scanner
 │   └── README.md          # Complete Nmap guide
+│
+├── Gobuster/              # Directory/DNS Enumeration
+│   └── README.md          # Complete Gobuster guide
 │
 ├── SQLMap/                # SQL Injection Tool
 │   └── README.md          # Complete SQLMap guide
