@@ -131,6 +131,12 @@
 | **GDB** | GNU Debugger (Linux debugging) | [📄 View](./GDB/README.md) |
 | **x64dbg** | Windows x64/x32 debugger | [📄 View](./x64dbg/README.md) |
 
+### 📶 WiFi Hacking
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Aircrack-ng** | WiFi hacking suite (WPA/WPA2) | [📄 View](./Aircrack-ng/README.md) |
+
 ### 📚 Resources
 
 | Resource | Description | Cheatsheet |
