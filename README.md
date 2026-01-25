@@ -57,11 +57,10 @@
 | **Meterpreter** | Advanced post-exploitation payload | [📄 View](./Metasploit/Meterpreter.md) |
 
 ### 🔍 Reconnaissance & Scanning
-*Coming Soon...*
 
-| Tool | Description | Status |
-|------|-------------|--------|
-| Nmap | Network discovery and security auditing | 🔜 Planned |
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **Nmap** | Network discovery and security auditing | [📄 View](./Nmap/README.md) |
 | Gobuster | Directory/DNS/VHost brute-forcing | 🔜 Planned |
 | Nikto | Web server scanner | 🔜 Planned |
 
@@ -145,13 +144,15 @@ Hacking-Cheatsheets/
 │   ├── README.md          # Complete msfconsole guide
 │   └── Meterpreter.md     # Meterpreter cheatsheet
 │
+├── Nmap/                  # Network Scanner
+│   └── README.md          # Complete Nmap guide
+│
 ├── SQLMap/                # SQL Injection Tool
 │   └── README.md          # Complete SQLMap guide
 │
 ├── Burp-Suite/            # Web Application Testing
 │   └── README.md          # Complete Burp Suite guide
 │
-├── Nmap/                  # (Coming Soon)
 └── ...
 ```
 
