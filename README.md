@@ -139,6 +139,20 @@
 | **Wifite** | Automated WiFi auditor | [📄 View](./Wifite/README.md) |
 | **Bettercap** | Network attack framework (MITM/WiFi) | [📄 View](./Bettercap/README.md) |
 
+### 🏢 Active Directory
+
+| Tool | Description | Cheatsheet |
+|------|-------------|------------|
+| **⭐ AD Methodology** | Step-by-step attack guide | [📄 View](./AD-Attack-Methodology/README.md) |
+| **BloodHound** | AD attack path visualization | [📄 View](./BloodHound/README.md) |
+| **Impacket** | Python AD attack toolkit | [📄 View](./Impacket/README.md) |
+| **CrackMapExec** | AD Swiss Army knife | [📄 View](./CrackMapExec/README.md) |
+| **Rubeus** | Kerberos abuse toolkit | [📄 View](./Rubeus/README.md) |
+| **PowerView** | PowerShell AD enumeration | [📄 View](./PowerView/README.md) |
+| **Responder** | LLMNR/NBT-NS poisoning | [📄 View](./Responder/README.md) |
+| **Evil-WinRM** | WinRM shell for pentesters | [📄 View](./Evil-WinRM/README.md) |
+| **Kerbrute** | Kerberos user enum & spray | [📄 View](./Kerbrute/README.md) |
+
 ### 📚 Resources
 
 | Resource | Description | Cheatsheet |
