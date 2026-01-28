@@ -94,6 +94,7 @@
 
 | Tool | Description | Cheatsheet |
 |------|-------------|------------|
+| **⭐ BB Methodology** | Complete bug bounty hunting guide | [📄 View](./Bug-Bounty-Methodology/README.md) |
 | **Nuclei** | Template-based vulnerability scanner | [📄 View](./Nuclei/README.md) |
 | **ffuf** | Fast web fuzzer | [📄 View](./ffuf/README.md) |
 | **Subfinder** | Subdomain discovery | [📄 View](./Subfinder/README.md) |
