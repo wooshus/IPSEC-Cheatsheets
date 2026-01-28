@@ -127,6 +127,17 @@
 | **CORS** | Cross-Origin misconfigurations | [📄 View](./CORS/README.md) |
 | **Open Redirect** | URL redirect vulnerabilities | [📄 View](./Open-Redirect/README.md) |
 
+### 🛡️ Advanced Attack Techniques
+
+| Topic | Description | Cheatsheet |
+|-------|-------------|------------|
+| **WAF Bypass** | Origin IP discovery & WAF evasion | [📄 View](./WAF-Bypass/README.md) |
+| **Cloudflare Bypass** | Find origin IP behind Cloudflare | [📄 View](./Cloudflare-Bypass/README.md) |
+| **Subdomain Takeover** | Dangling CNAME exploitation | [📄 View](./Subdomain-Takeover/README.md) |
+| **Cache Poisoning** | Web cache poisoning & deception | [📄 View](./Cache-Poisoning/README.md) |
+| **HTTP Smuggling** | Request smuggling (CL.TE/TE.CL) | [📄 View](./HTTP-Request-Smuggling/README.md) |
+| **Prototype Pollution** | JavaScript prototype attacks | [📄 View](./Prototype-Pollution/README.md) |
+
 ### 🔎 Dorking & OSINT
 
 | Tool | Description | Cheatsheet |
