@@ -65,6 +65,24 @@
 
 ---
 
+## 🛡️ Blue Team (Defensive Security)
+
+> **NEW!** Complete defensive security guides for SOC analysts and incident responders.
+
+| Topic | Description | Guide |
+|-------|-------------|-------|
+| **Incident Response** | IR lifecycle, containment, procedures | [📄 View](./Blue-Team/Incident-Response.md) |
+| **Log Analysis** | Windows/Linux log analysis & Event IDs | [📄 View](./Blue-Team/Log-Analysis.md) |
+| **SIEM Detection** | Splunk/ELK queries & dashboards | [📄 View](./Blue-Team/SIEM-Detection.md) |
+| **Threat Hunting** | Proactive hunting techniques | [📄 View](./Blue-Team/Threat-Hunting.md) |
+| **Hardening** | Windows/Linux hardening checklists | [📄 View](./Blue-Team/Hardening.md) |
+| **Sigma Rules** | Platform-agnostic detection rules | [📄 View](./Blue-Team/Sigma-Rules.md) |
+| **YARA Rules** | Malware & IOC detection patterns | [📄 View](./Blue-Team/YARA-Rules.md) |
+
+👉 **[Full Blue Team Overview](./Blue-Team/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
