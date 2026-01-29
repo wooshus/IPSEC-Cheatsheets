@@ -110,6 +110,19 @@
 
 ---
 
+## 🐳 Container Security
+
+> **NEW!** Docker & Kubernetes pentesting guides.
+
+| Platform | Description | Guide |
+|----------|-------------|-------|
+| **Docker** | Container escape, image analysis, daemon exploitation | [📄 View](./Container-Security/Docker-Pentesting.md) |
+| **Kubernetes** | RBAC bypass, pod escape, secrets extraction | [📄 View](./Container-Security/Kubernetes-Pentesting.md) |
+
+👉 **[Full Container Security Overview](./Container-Security/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
