@@ -123,6 +123,19 @@
 
 ---
 
+## 🎭 Social Engineering
+
+> **NEW!** Social engineering techniques, phishing campaigns, and pretexting guides.
+
+| Topic | Description | Guide |
+|-------|-------------|-------|
+| **Phishing** | Email phishing, GoPhish, Evilginx2, vishing, smishing | [📄 View](./Social-Engineering/Phishing.md) |
+| **Pretexting** | Personas, scenarios, psychological manipulation | [📄 View](./Social-Engineering/Pretexting.md) |
+
+👉 **[Full Social Engineering Overview](./Social-Engineering/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
