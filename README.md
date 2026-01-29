@@ -202,6 +202,11 @@
 | **SQLi** | SQL Injection payloads | [📄 View](./Payloads/SQLi.md) |
 | **LFI** | Local File Inclusion payloads | [📄 View](./Payloads/LFI.md) |
 | **SSTI** | Server-Side Template Injection | [📄 View](./Payloads/SSTI.md) |
+| **Command Injection** | OS command injection payloads | [📄 View](./Payloads/Command-Injection.md) |
+| **NoSQL Injection** | MongoDB, CouchDB, Redis payloads | [📄 View](./Payloads/NoSQL-Injection.md) |
+| **Deserialization** | Java, PHP, Python, .NET payloads | [📄 View](./Payloads/Deserialization.md) |
+| **WebSocket Attacks** | CSWSH, injection, hijacking | [📄 View](./Payloads/WebSocket-Attacks.md) |
+| **GraphQL Injection** | Introspection, IDOR, injection | [📄 View](./Payloads/GraphQL-Injection.md) |
 
 ### 🔴 Web Vulnerabilities
 
