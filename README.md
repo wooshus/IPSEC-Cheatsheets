@@ -164,6 +164,21 @@
 
 ---
 
+## 🌐 Network Pentesting
+
+> **NEW!** Complete network penetration testing guides.
+
+| Topic | Description | Guide |
+|-------|-------------|-------|
+| **Port Scanning** | Nmap, Masscan, RustScan | [📄 View](./Network-Pentesting/Port-Scanning.md) |
+| **Network Enumeration** | SMB, SNMP, NFS, LDAP, DNS | [📄 View](./Network-Pentesting/Network-Enumeration.md) |
+| **MITM Attacks** | ARP spoofing, DNS spoofing, SSL strip | [📄 View](./Network-Pentesting/MITM-Attacks.md) |
+| **Service Exploitation** | FTP, SSH, SMB, RDP, databases | [📄 View](./Network-Pentesting/Service-Exploitation.md) |
+
+👉 **[Full Network Pentesting Overview](./Network-Pentesting/README.md)**
+
+---
+
 ## 📖 Cheatsheets
 
 ### 🔴 Exploitation Framework
