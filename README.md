@@ -224,7 +224,7 @@
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Hacking-Cheatsheets.git
+git clone https://github.com/Ilias1988/Hacking-Cheatsheets.git
 cd Hacking-Cheatsheets
 ```
 
