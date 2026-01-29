@@ -9,12 +9,6 @@
   ╚═╝  ╚═╝╚═╝     ╚═╝    ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝   
 ```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/API-Security-blue?style=for-the-badge" alt="API">
-  <img src="https://img.shields.io/badge/REST-Testing-green?style=for-the-badge" alt="REST">
-  <img src="https://img.shields.io/badge/GraphQL-red?style=for-the-badge" alt="GraphQL">
-</p>
-
 ---
 
 ## 📋 Table of Contents
